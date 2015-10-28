@@ -1,0 +1,26 @@
+#Container{
+    height: 800px;
+    width: 1200px;
+}
+#Header{
+    width: 1000px;
+    height: 150px;
+    background: rgba(249, 255, 239, 0.4);
+}
+#form{
+    width: 25%;
+    height: 100%;
+    font-size: 20px;
+    background: rgba(249, 255, 239, 0.4);
+}
+#table2{
+    width: 75%;
+    height: 100%;
+    float: right;
+    background: rgba(249, 255, 239, 0.4);
+
+}
+#title {
+    text-align: center;
+    font-size: 90px;
+}
